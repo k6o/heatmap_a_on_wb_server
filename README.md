@@ -12,7 +12,7 @@ git remote set-url origin https://<ユーザ名>@github.com/<ユーザ名>/<リ�
 git remote add origin remote repository URL
 
 [k6o@doserate heatmap_a]$ git status
-# On branch master
+"# On branch master" 
 nothing to commit (working directory clean)
 [k6o@doserate heatmap_a]$ git push origin main
 Password: 
