@@ -19,7 +19,7 @@ you need your own google API key for maps related API access
 
 
 
-# heatmap_a_on_wb_server
+/# heatmap_a_on_wb_server
 files on webarena server
 
 log 
@@ -58,23 +58,23 @@ To prevent you from losing history, non-fast-forward updates were rejected
 Merge the remote changes before pushing again.  See the 'Note about
 fast-forwards' section of 'git push --help' for details.
 [k6o@doserate heatmap_a]$ git status
-# On branch master
-# Untracked files:
-#   (use "git add <file>..." to include in what will be committed)
-#
-#       all_active_accouns_geo_formated_no_none.txt
+/# On branch master
+/# Untracked files:
+/#   (use "git add <file>..." to include in what will be committed)
+/#
+/#       all_active_accouns_geo_formated_no_none.txt
 nothing added to commit but untracked files present (use "git add" to track)
 [k6o@doserate heatmap_a]$ git add
 Nothing specified, nothing added.
 Maybe you wanted to say 'git add .'?
 [k6o@doserate heatmap_a]$ git add all_active_accouns_geo_formated_no_none.txt 
 [k6o@doserate heatmap_a]$ git status
-# On branch master
-# Changes to be committed:
-#   (use "git reset HEAD <file>..." to unstage)
-#
-#       new file:   all_active_accouns_geo_formated_no_none.txt
-#
+/# On branch master
+/# Changes to be committed:
+/#   (use "git reset HEAD <file>..." to unstage)
+/#
+/#       new file:   all_active_accouns_geo_formated_no_none.txt
+/#
 [k6o@doserate heatmap_a]$ git commit -m "2nd Commit" 
 [master 0609f05] 2nd Commit
  1 files changed, 4462 insertions(+), 0 deletions(-)
