@@ -1,3 +1,24 @@
+#  Files for the heatmap 
+
+Using geocode API. 
+you need your own google API key for maps related API access 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # heatmap_a_on_wb_server
 files on webarena server
 
